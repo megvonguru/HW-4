@@ -3,7 +3,7 @@ title: An R Markdown document converted from "Meg_Integrating_R.ipynb"
 output: html_document
 ---
 
-Read the Data files from Homework 3 to merge
+Read the Data files from Homework 3 to merge, aggregate and resize
 
 ```{r}
 # locate the 3 output files from Homework 3
