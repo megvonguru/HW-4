@@ -1,5 +1,5 @@
 ---
-title: An R Markdown document converted from "Meg_Integrating_R.ipynb"
+title: HW 4 converted from "Meg_Integrating_R.ipynb"
 output: html_document
 ---
 
